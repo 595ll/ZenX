@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ZenX/static/css/main.f69853ae.css",
-    "main.js": "/ZenX/static/js/main.4d97578a.js",
+    "main.js": "/ZenX/static/js/main.13f974c4.js",
     "static/js/453.caf9288b.chunk.js": "/ZenX/static/js/453.caf9288b.chunk.js",
     "static/media/bg.png": "/ZenX/static/media/bg.44bc2d9e7a7929f95871.png",
     "static/media/KaTeX_AMS-Regular.ttf": "/ZenX/static/media/KaTeX_AMS-Regular.853be92419a6c3766b9a.ttf",
@@ -66,11 +66,11 @@
     "static/media/KaTeX_Size3-Regular.woff2": "/ZenX/static/media/KaTeX_Size3-Regular.e1951519f6f0596f7356.woff2",
     "index.html": "/ZenX/index.html",
     "main.f69853ae.css.map": "/ZenX/static/css/main.f69853ae.css.map",
-    "main.4d97578a.js.map": "/ZenX/static/js/main.4d97578a.js.map",
+    "main.13f974c4.js.map": "/ZenX/static/js/main.13f974c4.js.map",
     "453.caf9288b.chunk.js.map": "/ZenX/static/js/453.caf9288b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f69853ae.css",
-    "static/js/main.4d97578a.js"
+    "static/js/main.13f974c4.js"
   ]
 }
